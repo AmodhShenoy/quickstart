@@ -8,8 +8,8 @@ env:
     DOCKERHUB_REPO : "dlcbldtest"
   
   vaultVariables:
-    DOCKERHUB_USERNAME : "ocid1.vaultsecret.oc1.iad.amaaaaaa4725fbqaz3oyat7a62piig4hop3lqx7vxmaxc4nbegkztdfjupgq"
-    DOCKERHUB_PASSWD : "ocid1.vaultsecret.oc1.iad.amaaaaaa4725fbqatw3wl62kqlux2753ozwmspkqncmul465zzvknobnlfka"
+    DOCKERHUB_USERNAME : "ocid1.vaultsecret.oc1.iad.amaaaaaa34lgq7aa2g32t6xlucageyf3hlq2fmoutbmhq4633bceaip6txtq"
+    DOCKERHUB_PASSWD : "ocid1.vaultsecret.oc1.iad.amaaaaaa34lgq7aauxd3arlxat6cjpy7ikjz4zh7g62wom6zdii53ri3u4da"
     
   exportedVariables:
     - tag_name
